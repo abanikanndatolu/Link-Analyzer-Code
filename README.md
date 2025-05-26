@@ -14,6 +14,8 @@ This **enhanced Link Analyzer** checks URLs for security risks, HTTP status code
 - Install dependencies:
   ```bash
   pip install requests streamlit
+  streamlit run analyzer.py
+
 
 Enter a URL to analyze: https://example.com
 🔍 Link Analysis Result:
